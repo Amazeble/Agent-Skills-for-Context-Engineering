@@ -189,9 +189,9 @@ Phase 4:
 
 ## Best Practices
 
-1. **Start Simple**: Begin with minimal viable workflow, add complexity as needed
-2. **Monitor Progress**: Provide status updates for long-running workflows
-3. **Preserve Context**: Pass relevant context between agent handoffs
-4. **Quality Gates**: Validate intermediate outputs before proceeding
-5. **Document Decisions**: Log why tasks were assigned to specific agents
+1. **Start Simple**: Begin with minimal viable workflow, add complexity as needed.
+2. **Monitor Progress**: Provide status updates for long-running workflows,
+3. **Preserve Context**: Pass relevant context between agent handoffs,
+4. **Quality Gates**: Validate intermediate outputs before proceeding,
+5. **Document Decisions**: Log why tasks were assigned to specific agents.
 
